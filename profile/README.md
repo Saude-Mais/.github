@@ -1,4 +1,4 @@
-# Projeto da Verificação, Validação e Teste de Software - Saúde Mais(antigo cadkids)
+# Projeto da Verificação, Validação e Teste de Software - Saúde Mais
 
 <!--
 
